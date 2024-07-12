@@ -1,0 +1,1 @@
+There are certain expressions that convey special meanings. In other words, they are not what they look like. A shell carries out substitution whenever it encounters such expressions. Hence, substitution is defined as a mechanism carried out by a shell in which it substitutes the value of an expression with its actual value.
