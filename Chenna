@@ -1,0 +1,7 @@
+// Shell script to illustrate undefined variables
+
+#!/bin/sh
+
+// Printing undefined variables
+echo $myVariable1
+echo $myVariable2
